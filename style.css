@@ -1,0 +1,19 @@
+html {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+}
+
+.wrapper {
+  padding: 20px;
+  max-width: 350px;
+  background-color: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+ul {
+  list-style-type: none;
+}
